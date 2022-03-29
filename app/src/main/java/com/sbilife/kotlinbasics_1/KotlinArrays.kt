@@ -13,6 +13,7 @@ fun main() {
 
     //use index of arrays
     for ((i,e) in arr.withIndex()){
+        println("for loop with 2 values")
         println("index is ${i} with value ${e}")
     }
 
