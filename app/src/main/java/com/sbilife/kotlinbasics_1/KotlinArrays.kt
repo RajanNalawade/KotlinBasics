@@ -8,6 +8,7 @@ fun main() {
     var arr = arrayOf("1","2","3")
     var arr1 = arrayOf(1,2,3)
     for (i in arr){
+        println("for loop with single values")
         println(i)
     }
 
